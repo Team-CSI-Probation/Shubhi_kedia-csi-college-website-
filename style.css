@@ -43,6 +43,12 @@
     .nav-link:hover{
         border-bottom: none!important;
     }
+    .carousel-caption .caption1 .caption2{
+        font-size: 10px;
+    }
+    .map{
+        width: 15px;
+    }
 }
 .form-control{
     float: right;
